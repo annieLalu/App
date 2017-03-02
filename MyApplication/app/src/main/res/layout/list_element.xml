@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        app:civ_border_width="1dp"
+        app:civ_border_color="#FF000000"
+        android:paddingTop="@dimen/nav_header_vertical_spacing"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginRight="16dp"
+        android:layout_gravity="center_vertical"/>-->
+
+<TextView android:id="@+id/nome_cognome"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="20sp"
+    android:layout_gravity="center_vertical"
+    android:text="Nome Cognome"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+

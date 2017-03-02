@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@mipmap/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/team"
+        android:icon="@mipmap/ic_people_black_24dp"
+        android:title="Squadra" />
+    <item
+        android:id="@+id/game"
+        android:icon="@drawable/ic_action_add"
+        android:title="Partita" />
+    <item
+        android:id="@+id/training"
+        android:icon="@mipmap/ic_event_black_24dp"
+        android:title="Allenamenti" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@mipmap/ic_person_black_24dp"
+        android:title="Profilo" />
+</menu>
